@@ -1,6 +1,10 @@
 <html>
 
-<head>API SERVER</head>
+<head>
+    <title>
+        API SERVER
+    </title>
+</head>
 
 <body>
     <h1>TESTING SERVER</h1>
